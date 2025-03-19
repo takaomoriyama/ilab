@@ -9,8 +9,3 @@ langchain-community==0.3.17
 langchain-core==0.3.34
 langchain-openai==0.3.5
 langchain-text-splitters==0.3.6
-instructlab-schema>=0.4.1
-docling==2.7.0
-wandb==0.19.4
-ray==2.40.0
-transformers==4.48.3
