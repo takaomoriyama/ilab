@@ -1,5 +1,5 @@
 # v0.25.1
 #Limiting TRL to 0.14.0 prevents the Training Error "index out of range"
-llama_cpp_python[server]==0.3.6 -C cmake.args='-DGGML_CUDA=on -DGGML_NATIVE=off'
+llama_cpp_python[server]==0.3.6 -C cmake.args='-DGGML_CUDA=on -DGGML_NATIVE=off -DLLAMA_AVX=off -DLLAMA_AVX2=off -DLLAMA_FMA=off'
 instructlab[cuda]==0.25
 vllm==0.7.3
