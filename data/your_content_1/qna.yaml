@@ -1,216 +1,545 @@
 version: 3
-created_by: juliadenham
-domain: pop_culture
+domain: Polymers
+created_by: takaomoriyama
 seed_examples:
   - context: |
-      The 96th Academy Awards ceremony, which was presented by the Academy of Motion Picture Arts and Sciences (AMPAS),
-      took place on March 10, 2024, at the Dolby Theatre in Hollywood, Los Angeles. During the gala, the AMPAS presented
-      Academy Awards (commonly referred to as Oscars) in 23 categories honoring films released in 2023.
-      Comedian Jimmy Kimmel hosted the show for the fourth time.
-      The nominations were announced on January 23, 2024. Oppenheimer led with 13 nominations, followed by Poor Things
-      and Killers of the Flower Moon with 11 and 10, respectively. Oppenheimer won a leading seven awards, including
-      Best Picture and Best Director. Other major winners were Poor Things with four awards and The Zone of Interest
-      with two. The films which won one award each include American Fiction, Anatomy of a Fall, Barbie,
-      The Boy and the Heron, Godzilla Minus One, The Holdovers, The Last Repair Shop, 20 Days in Mariupol, War Is Over!,
-      and The Wonderful Story of Henry Sugar. The telecast drew 19.5 million viewers in the United States, becoming the
-      most watched awards
-      show since 2020.
+      The word polymer is derived from the classical Greek words poly meaning
+      “many” and meres meaning “parts.” Simply stated, a polymer is a long-chain mole-
+      cule that is composed of a large number of repeating units of identical structure.
+      Certain polymers, such as proteins, cellulose, and silk, are found in nature, while
+      many others, including polystyrene, polyethylene, and nylon, are produced only by
+      synthetic routes. In some cases, naturally occurring polymers can also be produced
+      synthetically. An important example is natural (Hevea) rubber, known as polyiso-
+      prene in its synthetic form.
+      Polymers that are capable of high extension under ambient conditions find im-
+      portant applications as elastomers. In addition to natural rubber, there are several
+      important synthetic elastomers including nitrile and butyl rubber. Other polymers
+      may have characteristics that enable their fabrication into long fibers suitable for
+      textile applications. The synthetic fibers, principally nylon and polyester, are good
+      substitutes for naturally occurring fibers such as cotton, wool, and
+      silk.
+      In contrast to the usage of the word polymer, those commercial materials other
+      than elastomers and fibers that are derived from synthetic polymers are called plas-
+      tics. A typical commercial plastic resin may contain two or more polymers in addi-
+      tion to various additives and fillers. These are added to improve a particular proper-
+      ty such as processability, thermal or environmental stability, or mechanical proper-
+      ties.
+      The birth of polymer science may be traced back to the mid-nineteenth centu-
+      ry. In the 1830s, Charles Goodyear developed the vulcanization process that trans-
+      formed the sticky latex of natural rubber into a useful elastomer for tire use. In
+      1847, Christian F. Schönbein reacted cellulose with nitric acid to produce cellulose
+      nitrate. This was used in the 1860s as the first man-made thermoplastic, celluloid. In
+      1907, Leo Hendrik Baekeland [1] produced Bakelite (phenol−formaldehyde resin).
+      Glyptal (unsaturated-polyester resin) was developed as a protective coating resin by
+      General Electric in 1912.
+      By the 1930s, researchers at DuPont in the United States had produced a vari-
+      ety of new polymers including synthetic rubber and more “exotic” materials such as
+      nylon and Teflon. By 1938, Dow had produced polystyrene in commercial scale for
+      the first time and, in 1939, polyethylene (low-density) was made by scientists at ICI
+      in England. Efforts to develop new polymeric materials, particularly synthetic rub-
+      ber, were intensified during World War II when many naturally occurring materials
+      such as Hevea rubber were in short supply. In the 1950s, Karl Ziegler and Giulio
+      Natta independently developed a family of stereospecific transition-metal catalysts
+      that made possible the commercialization of polypropylene as a major commodity
+      plastic. The 1960s and 1970s witnessed the development of a number of high-
+      performance engineering plastics polymers that could compete favorably with more
+      traditional materials, such as metals, for automotive and aerospace applications.
+      These included polycarbonate, poly(phenylene oxide), polysulfones, polyimides,
+      aromatic polyamides such as Kevlar, and other high-temperature rigid-chain poly-
+      mers. More recently, specialty polymers with electrically conducting, photocon-
+      ducting, and liquid-crystalline properties have appeared for a variety of applica-
+      tions.
+      Today, polymeric materials are used in nearly all areas of daily life and their
+      production and fabrication are major worldwide industries. The annual U.S. produc-
+      tion of plastics and synthetic fibers in 2012 and the average annual change in pro-
+      duction over the decade from 2002 to 2012 are given in Table 1-1. In 2012, the total
+      U.S. production of synthetic fibers (principally non-cellulosic) and plastics was 2.81
+      and 34.1 million metric tons, respectively. Among plastics, the largest shares of the
+      total production in 2012 were the polyethylenes, followed by polypropylene,
+      poly(vinyl chloride) (PVC), and polystyrene. Although not specifically listed by the
+      data given in Table 1-1, thermosetting resins (principally phenolic, urea, and mela-
+      mine resins) typically represent around 10% of the total plastics production
+      while synthetic rubbers, such as styrene–butadiene rubber (SBR) and polybutadiene, rep-
+      resent only about 6% of the total production in recent years.
     questions_and_answers:
       - question: |
-          When did the 2024 Oscars happen?
+          What are polymers and how are they structured?
         answer: |
-          The 2024 Oscars were held on March 10, 2024.
+          Polymers are long-chain molecules composed of repeating structural units (monomers), which can be natural or synthetic.
       - question: |
-          Who hosted the 2024 Oscars?
+          Name three natural and three synthetic polymers.
         answer: |
-          Jimmy Kimmel hosted the 96th Academy Awards ceremony.
+          Natural: cellulose, proteins, silk. Synthetic: polystyrene, polyethylene, nylon.
       - question: |
-          What film had the most Oscar nominations in 2024?
+          What is the difference between plastics, elastomers, and fibers?
         answer: |
-          Oppenheimer had 13 Oscar nominations.
+          Plastics are rigid or flexible moldable materials, elastomers are stretchable, and fibers are long-thread-like materials used in textiles.
+      - question: |
+          How did World War II influence polymer development?
+        answer: |
+          It accelerated the development of synthetic rubbers and plastics due to shortages of natural materials.
+      - question: |
+          Name two significant developments in 20th-century polymer science.
+        answer: |
+          The invention of Bakelite in 1907 and the commercialization of polypropylene using Ziegler–Natta catalysts in the 1950s.
   - context: |
-      Winners and nominees
-      The nominees for the 96th Academy Awards were announced on January 23, 2024, by actors Zazie Beetz and Jack Quaid
-      at the Samuel Goldwyn Theater in Beverly Hills. The winners were announced during the awards ceremony on
-      March 10, 2024. The cultural phenomenon of "Barbenheimer" received a total of twenty-one nominations (eight for
-      Barbie and thirteen for       Oppenheimer). The two films competed against each other in six categories, including
-      Best Picture. Several notable nominees include Steven Spielberg, who extended his record for the most Best Picture
-      nominations to thirteen; Martin Scorsese, who received his tenth nomination for Best Director, and became the
-      oldest nominee in the category; Thelma Schoonmaker, who received her ninth nomination for Best Film Editing;
-      composer John Williams, who received his 54th nomination; and Willie D. Burton, who received his eighth nomination
-      as a below-the-line crew member. Ten actors received their first Oscar nominations this year. The acting nominees
-      included portrayals from three openly LGBTQ+ actors: Colman Domingo, Jodie Foster, and Lily Gladstone.
-      Gladstone also became the first Native American actress to be nominated. Scott George, who wrote the music and
-      lyrics to "Wahzhazhe (A Song for My People)", became the first member of the Osage Nation to be nominated for an
-      Academy Award. This was the fifth consecutive year with at least one Best Picture nominee directed by a woman:
-      Greta Gerwig with Barbie, Celine Song with Past Lives, and Justine Triet with Anatomy of a Fall. Triet also became
-      the eighth woman nominated for Best Director. Overall, six couples received nominations that they shared together
-      in their respective categories. Billie Eilish and Finneas O'Connell won Best Original Song, becoming the youngest
-      two-time Oscar winners in history (22 and 26 years, respectively), having previously won the award in 2022.
-      Killers of the Flower Moon became Scorsese's third film to be nominated in ten or more categories and not win a
-      single award, after Gangs of New York and The Irishman. The Zone of Interest became the first British film to win
-      the International Feature category. Godzilla Minus One became the first Japanese and non-English language film to
-      win the Best Visual Effects category. Director Hayao Miyazaki, at the age of 83, became the oldest director to win
-      Best Animated Feature for The Boy and the Heron. Additionally, The Boy and the Heron became the first PG-13
-      animated film to win Best Animated Feature; all of the previous winners were rated G or PG.
+      Thousands of different polymers have been synthesized and more will be produced
+      in the future. Conveniently, all polymers can be assigned to one of two groups
+      based upon their processing characteristics or the type of polymerization mecha-
+      nism. A more specific classification can be made on the basis of polymer structure.
+      Such groupings are useful because they facilitate the discussion of
+      properties.
+      All polymers can be divided into two major groups based on their thermal pro-
+      cessing behavior. Those polymers that can be heat-softened in order to process into
+      a desired form are called thermoplastics. Waste thermoplastics can be recovered
+      and refabricated by application of heat and pressure. Polystyrene is an important
+      example of a commercial thermoplastic. Other major examples are the polyolefins
+      (e.g., polyethylene and polypropylene) and poly(vinyl chloride). In comparison,
+      thermosets are polymers whose individual chains have been chemically linked by
+      covalent bonds during polymerization or by subsequent chemical or thermal treat-
+      ment during fabrication. Once formed, these crosslinked networks resist heat
+      soft-
+      ening, mechanical deformation, and solvent attack, but cannot be thermally pro-
+      cessed. Such properties make thermosets suitable materials for composites, coat-
+      ings, and adhesive applications. Principal examples of thermosets include epoxy,
+      phenol–formaldehyde resins, and unsaturated polyesters that are used in the manu-
+      facture of glass-reinforced composites such as Fiberglas (see Section 7.4).
+      In addition to classifying polymers on the basis of their processing characteristics,
+      polymers may also be classified according to their mechanism of polymerization.
+      An early scheme classifies polymers as either addition or condensation—a scheme
+      attributed to Wallace Carothers [2], a pioneer of the polymer industry working at
+      DuPont from 1928 until his untimely death in 1937. Polystyrene, which is polymer-
+      ized by a sequential addition of styrene monomers (see Figure 1-1), is an example
+      of an addition polymer. Most important addition polymers are polymerized from
+      olefins and vinyl-based monomers. A few other polymers that are traditionally rec-
+      ognized as belonging to the addition class are polymerized not by addition to an
+      ethylene double bond but through a ring-opening polymerization of a sterically
+      strained cyclic monomer. An example is the ring-opening polymerization of triox-
+      ane to form polyoxymethylene (an engineering thermoplastic), which is illustrated
+      in Figure 1-2. Table 1-2 lists the chemical structure of the repeating units and the
+      commonly used nomenclature of some of the most important addition-type poly-
+      mers derived from substituted ethylene.
+      A molecule participating in a polycondensation reaction may be a monomer, oligo-
+      mer, or higher-molecular-weight intermediate each having complementary func-
+      tional end units, such as carboxylic acid or hydroxyl groups. Typically, condensa-
+      tion polymerizations occur by the liberation of a small molecule in the form of a
+      gas, water, or salt. Any high-yield condensation reaction such as esterification or
+      amidation can be used to obtain a high-molecular-weight polymer. An example of a
+      condensation polymerization is the synthesis of nylon-6,6 by the polycondensation
+      of adipic acid and hexamethylenediamine as illustrated in Figure 1-3A. This
+      polymerization is accompanied by the liberation of two molecules of water for each
+      repeating unit. Another important example of a polycondensation, illustrated in Fig-
+      ure 1-3B, is the preparation of polycarbonate from bisphenol-A and phosgene. In
+      this case, two molecules of hydrogen chloride are formed for each repeating unit.
+      Alternatively, if the sodium salt of bisphenol-A was used in the polymerization, the
+      by-product of the condensation would be sodium chloride rather than hydrogen
+      chloride. The salt will precipitate out of the organic solvent used for the polymeriza-
+      tion and, therefore, can be easily and safely removed. Some other examples of con-
+      densation polymers are given in Table 1-3.
+      A molecule participating in a polycondensation reaction may be a monomer, oligo-
+      mer, or higher-molecular-weight intermediate each having complementary func-
+      tional end units, such as carboxylic acid or hydroxyl groups. Typically, condensa-
+      tion polymerizations occur by the liberation of a small molecule in the form of a
+      gas, water, or salt. Any high-yield condensation reaction such as esterification or
+      amidation can be used to obtain a high-molecular-weight polymer. An example of a
+      condensation polymerization is the synthesis of nylon-6,6 by the polycondensation
+      of adipic acid and hexamethylenediamine as illustrated in Figure 1-3A. This
+      polymerization is accompanied by the liberation of two molecules of water for each
+      repeating unit. Another important example of a polycondensation, illustrated in Fig-
+      ure 1-3B, is the preparation of polycarbonate from bisphenol-A and phosgene. In
+      this case, two molecules of hydrogen chloride are formed for each repeating unit.
+      Alternatively, if the sodium salt of bisphenol-A was used in the polymerization, the
+      by-product of the condensation would be sodium chloride rather than hydrogen
+      chloride. The salt will precipitate out of the organic solvent used for the polymeriza-
+      tion and, therefore, can be easily and safely removed. Some other examples of con-
+      densation polymers are given in Table 1-3.
+      In addition to classification based upon processing and polymerization characteris-
+      tics, polymers may also be grouped based upon the chemical structure of their
+      backbones. For example, polymers having all carbon atoms along their backbone
+      are important examples of homochain polymers. They may be further classified de-
+      pending upon whether there are single or double bonds along their backbone.
+      Carbon-chain polymers with only single bonds along the backbone are called poly-
+      alkylenes (or polyalkylidenes). Examples of polyalkylenes include polystyrene, the
+      polyolefins (e.g., polyethylene and polypropylene), and poly(vinyl chloride). Car-
+      bon-chain polymers with double bonds along the chain such as the diene
+      elastomers—polyisoprene and polybutadiene—are called polyalkenylenes. Another
+      example of a polyalkenylene is polyacetylene, an electrically conducting polymer
+      (see Section 10.2.7).
+      Heterochain polymers that contain more than one atom type in their backbone
+      are grouped according to the types of atoms and chemical groups (e.g., carbonyl,
+      amide, or ester) located along the backbone. The most important classes of organic
+      heterochain polymers are listed in Table 1-4. Another important class of hetero-
+      chain polymers includes polysiloxanes. These have a –Si–O– backbone with methyl
+      or other substituent groups attached to silicon.
     questions_and_answers:
       - question: |
-          What is the first Japanese film to wih the Best Visual Effects category?
+          What are the two primary categories of polymers based on heat response?
         answer: |
-          Godzilla Minus One
+          Thermoplastics (soften on heating) and thermosets (harden irreversibly).
       - question: |
-          Who has the record for the most Best Picture nominations and how many?
+          How are polymers classified based on polymerization mechanism?
         answer: |
-          Steven Spielberg has the record of thirteen nominations.
+          Into addition (chain) and condensation (step-growth) polymers.
       - question: |
-          What two films competed against each other in six categories, including Best Picture?
+          What structural feature distinguishes homochain from heterochain polymers?
         answer: |
-          Oppenheimer and Barbie
+          Homochain polymers have all-carbon backbones; heterochain polymers include atoms like oxygen, nitrogen, or sulfur.
+      - question: |
+          Give an example of a thermoplastic and a thermoset.
+        answer: |
+          Thermoplastic: polyethylene. Thermoset: epoxy resin.
+      - question: |
+          What makes thermosets chemically resistant?
+        answer: |
+          Their three-dimensional crosslinked network.
   - context: |
-      Categories, Winners and Nominees
-        Best Picture
-            Winner
-                Oppenheimer - Producers: Emma Thomas, Charles Roven, and Christopher Nolan, producers
-            Nominees -
-                American Fiction - Producers: Ben LeClair, Nikos Karamigios [de], Cord Jefferson, and Jermaine Johnson
-                Anatomy of a Fall - Producers: Marie-Ange Luciani and David Thion
-                Barbie - Producers: David Heyman, Margot Robbie, Tom Ackerley, and Robbie Brenner
-                The Holdovers - Producer: Mark Johnson
-                Killers of the Flower Moon - Producers: Dan Friedkin, Bradley Thomas, Martin Scorsese, and Daniel Lupi
-                Maestro - Producers: Bradley Cooper, Steven Spielberg, Fred Berner, Amy Durning [de],
-                and Kristie Macosko Krieger
-                Past Lives - Producers: David Hinojosa, Christine Vachon, and Pamela Koffler
-                Poor Things - Producers: Ed Guiney, Andrew Lowe, Yorgos Lanthimos, and Emma Stone
-                The Zone of Interest - Producer: James Wilson
-        Best Director
-            Winner
-                Christopher Nolan – Oppenheimer
-            Nominees
-                Justine Triet – Anatomy of a Fall
-                Martin Scorsese – Killers of the Flower Moon
-                Yorgos Lanthimos – Poor Things
-                Jonathan Glazer – The Zone of Interest
-        Best Actor
-            Winner
-                Cillian Murphy – Oppenheimer as J. Robert Oppenheimer ‡
-            Nominees
-                Bradley Cooper – Maestro as Leonard Bernstein
-                Colman Domingo – Rustin as Bayard Rustin
-                Paul Giamatti – The Holdovers as Paul Hunham
-                Jeffrey Wright – American Fiction as Thelonious "Monk" Ellison
-        Best Actress
-            Winner
-                Emma Stone – Poor Things as Bella Baxter ‡
-            Nominees
-                Annette Bening – Nyad as Diana Nyad
-                Lily Gladstone – Killers of the Flower Moon as Mollie Burkhart
-                Sandra Hüller – Anatomy of a Fall as Sandra Voyter
-                Carey Mulligan – Maestro as Felicia Montealegre
-        Best Supporting Actor
-            Winner
-                Robert Downey Jr. – Oppenheimer as Lewis Strauss ‡
-            Nominees
-                Sterling K. Brown – American Fiction as Clifford "Cliff" Ellison
-                Robert De Niro – Killers of the Flower Moon as William King Hale
-                Ryan Gosling – Barbie as Ken
-                Mark Ruffalo – Poor Things as Duncan Wedderburn
-        Best Supporting Actress
-            Winner
-                Da'Vine Joy Randolph – The Holdovers as Mary Lamb ‡
-            Nominees
-                Emily Blunt – Oppenheimer as Kitty Oppenheimer
-                Danielle Brooks – The Color Purple as Sofia
-                America Ferrera – Barbie as Gloria
-                Jodie Foster – Nyad as Bonnie Stoll
+      Section 1.2: Polymer Structure
+      The properties of polymers are strongly influenced by details of the chain structure.
+      These details include the overall chemical composition and the sequence of
+      mono-
+      mer units in the case of copolymers, the stereochemistry or tacticity of the chain,
+      and the geometric isomerization in the case of diene-type polymers for which sever-
+      al synthesis routes may be possible.
+      Often, it is possible to obtain polymers with new and desirable properties by linking
+      two or three different monomers or repeating units during the polymerization. Poly-
+      mers with two different repeating units in their chains are called copolymers. When
+      there are three chemically different repeating units, the resulting polymer is termed
+      a terpolymer. Commercially, the most important copolymers are derived from vinyl
+      monomers such as styrene, ethylene, acrylonitrile, and vinyl chloride.
+      The exact sequence of monomer units along the chain can vary widely de-
+      pending upon the relative reactivities of each monomer during the copolymerization
+      process. At the extremes, monomer placement may be totally random or may be
+      perfectly alternating, as illustrated in Figure 1-4. The actual sequence of monomer
+      units is determined by the relative reactivities of the monomers as will be described
+      for free-radical copolymerization in Section 2.2.1. Under special circumstances, it is
+      possible to prepare copolymers that contain a long block of one monomer (A) fol-
+      lowed by a block of the other monomer (B). These are called AB-block copolymers.
+      ABA-triblock copolymers have a central B block joined by A blocks at both ends.
+      A commercially important ABA-triblock copolymer is polystyrene-block-
+      polybutadiene-block-polystyrene or SBS, a thermoplastic elastomer (see Section
+      9.2.3). In addition to these copolymer structures, graft copolymers can be prepared
+      by polymerizing a monomer in the presence of a fully formed polymer of another
+      monomer. Graft copolymers are important as elastomers (e.g., SBR) and high-
+      impact polymers (e.g., high-impact polystyrene and acrylontrile−butadiene−styrene
+      or ABS resin).
+      In addition to the type, number, and sequential arrangement of monomers along the
+      chain, the spatial arrangement of substituent groups is also important in determining
+      properties. The possible steric configurations of an asymmetric vinyl-polymer chain
+      can be best represented by drawing the chain in its extended-chain or planar zigzag
+      conformation, as illustrated in Figure 1-5. A conformation describes the geometrical
+      arrangement of atoms in the polymer chain while configuration denotes the stereo-
+      chemical arrangement of atoms. Unlike the conformation, the configuration of a
+      polymer chain cannot be altered without breaking chemical bonds. For long, flexi-
+      ble polymer chains, the total number of conformations is nearly infinite. The
+      ex-
+      tended-chain conformation for vinyl polymers is often the lowest-energy confor-
+      mation.
+      As illustrated in Figure 1-5, several different placements of the asymmetric
+      substituent group, R, are possible. As examples, a substituent group may be a me-
+      thyl group as in polypropylene, a chlorine atom as in poly(vinyl chloride), or a phe-
+      nyl ring as in polystyrene. In one configuration, all the R groups may lie on the
+      same side of the plane formed by the extended-chain backbone. Such polymers are
+      termed isotactic. If the substituent groups regularly alternate from one side of the
+      plane to the other, the polymer is termed syndiotactic. Polymers with no preferred
+      placement are atactic. More complicated arrangements of substituent groups are
+      possible in the case of 1,2-disubstituted polymers; however, these are commercially
+      less important and will not be discussed here.
+      In general, tactic polymers (i.e., isotactic or syndiotactic) are partially crystal-
+      line, while atactic polymers are amorphous indicating the absence of all crystalline
+      order. In addition to crystallinity, other polymer properties, such as thermal and
+      mechanical behavior, can be significantly affected by the tacticity of the polymer as
+      later examples will show. Whether a specific polymer will be atactic, isotactic, or
+      syndiotactic depends upon the specific conditions of the polymerization, such as the
+      temperature and choice of solvent, as will be discussed in Chapter 2. Commercial
+      polypropylene is an important example of an isotactic polymer. Atactic and syndio-
+      tactic forms of this polymer can also be prepared by controlling the polymerization
+      conditions. Atactic polypropylene is an amorphous, tacky polymer with no com-
+      mercial importance. Commercial poly(vinyl chloride) (PVC) is an example of a
+      polymer with imperfect tactic structure. Although the overall structure of commer-
+      cial-grade PVC can be reasonably characterized as atactic, there are populations of
+      repeating units whose sequences are highly syndiotactic and that impart a small de-
+      gree of crystallinity to the commercial resin. Space-filling (CPK) models of a short
+      PVC chain having eight repeating units with all isotactic and all syndiotactic place-
+      ments of the chlorine atoms are shown in Figure 1-6. Using special polymerization
+      methods, PVC with very high syndiotactic or isotactic content can be made (see
+      Section 9.1.2); however, these crystalline stereoisomers of PVC offer no important
+      advantage compared to the commercial plastic. In the case of polystyrene, syndio-
+      tactic polystyrene has been obtained by metallocene polymerization (see Section
+      2.2.3) and is being studied as an alternative to the atactic “crystal grade” plastic for
+      some applications (see Section 9.1.2).
+      When there are unsaturated sites along a polymer chain, several different isomeric
+      forms are possible. As illustrated by Figure 1-7, 1,3-butadiene (structure A) can be
+      polymerized to give 1,2-poly(1,3-butadiene) (B) or either of two geometric isomers
+      of 1,4-poly(1,3-butadiene) (C and D). The numbers preceding the poly prefix desig-
+      nate the first and last carbon atoms of the backbone repeating unit. 1,2-poly(1,3-
+      butadiene) has a vinyl-type structure, where the substituent group (ethene) contains
+      an unsaturated site; therefore, this geometric isomer can be atactic, syndiotactic, or
+      isotactic. In the case of the commercially more important 1,4-poly(1,3-butadiene),
+      all four carbons in the repeating unit lie along the chain. Carbons 1 and 4 can lie
+      either on the same side of the central double bond (i.e., cis-configuration, C) or on
+      the opposite side (i.e., trans-configuration, D). The structure of polybutadiene used
+      in SBR rubber (i.e., a copolymer of styrene and butadiene) is principally the trans-
+      1,4 isomer with some cis-1,4- and 1,2-poly(1,3-butadiene) content.
+      As the preceding examples illustrate, a very large number of different polymer
+      structures are possible. In order to identify these as unambiguously as possible, it is
+      important to have a robust nomenclature system. As is already evident, simple vinyl
+      polymers are designated by attaching the prefix poly to the monomer name (e.g.,
+      polystyrene, polyethylene, and polypropylene); however, when the monomer name
+      consists of more than one word or is preceded by a letter or number, the monomer is
+      enclosed by parentheses preceded by the prefix poly. For example, the polymer ob-
+      tained from the polymerization of 4-chlorostyrene is poly(4-chlorostyrene) and that
+      from vinyl acetate is poly(vinyl acetate). Tacticity may be noted by prefixing the
+      letter i (isotactic) or s (syndiotactic) before poly as in i-polystyrene. Geometric and
+      structural isomers may be indicated by using the appropriate prefixes, cis or trans
+      and 1,2- or 1,4-, before poly, as in trans-1,4-poly(1,3-butadiene).
+      Nomenclature rules for non-vinyl polymers such as condensation polymers are
+      generally more complicated than for vinyl monomers. These polymers are usually
+      named according to the initial monomer or the functional group of the repeating
+      unit. For example, the most important commercial nylon, commonly called nylon-
+      6,6 (66 or 6/6), is more descriptively called poly(hexamethylene adipamide) denot-
+      ing the polyamidation of hexamethylenediamine (alternatively called 1,6-hexane
+      diamine) with adipic acid (see Figure 1-3A). Similarly, the aliphatic nylon obtained
+      by the polyamidation of hexamethylenediamine with a 10-carbon dicarboxylic acid,
+      sebacic acid, is nylon-6,10 or poly(hexamethylene sebacamide) (see structure
+      shown in Table 1-3).
+      In some cases, “common” names are used almost exclusively in place of the
+      more chemically correct nomenclature. For example, the polycondensation of phos-
+      gene and bisphenol-A—the common name for 2,2-bis(4-hydroxyphenyl)propane—
+      produces the engineering thermoplastic, polycarbonate (Figure 1-3B). Often, the
+      prefix bisphenol-A is placed before polycarbonate to distinguish it from other poly-
+      carbonates that can be polymerized by using bisphenol monomers other than bis-
+      phenol-A, such as tetramethylbisphenol-A.
+      For many years, the International Union of Pure and Applied Chemistry
+      (IUPAC) and the American Chemical Society (ACS) have developed a detailed,
+      structure-based nomenclature for polymers. In addition, an industrial standard
+      (ASTM D-4000) for specifying specific commercial grades of reinforced and non-
+      reinforced plastics has been offered by the American Society for Testing and Mate-
+      rials (ASTM).
+      The IUPAC structure-based rules for naming organic, inorganic, and coordina-
+      tion polymers have been compiled in several publications [3–8]. Although such
+      nomenclature provides an unambiguous method for identifying the large number of
+      known polymers (more than 60,000 polymers are listed in the Chemical Abstracts
+      Service (CAS) Chemical Registry System, semi-systematic or trivial names and
+      sometimes even principal trade names (much to the displeasure of the manufactur-
+      er) continue to be used in place of the sometimes unwieldy IUPAC names. As ex-
+      amples, the IUPAC name for polystyrene is poly(1-phenylethylene) and that for
+      polytetrafluoroethylene
+      is poly(difluoromethylene)—a polymer more typically recognized by its trademark,
+      Teflon. The IUPAC name for the polycarbonate of bisphenol-A mentioned earlier is
+      poly(oxycarbonyloxy-1,4-phenyleneisopropylidene-1,4-phenylene).
+      For convenience, several societies have developed a very useful set of two-,
+      three-, and four-letter abbreviations for the names of many common thermoplastics,
+      thermosets, fibers, elastomers, and additives. Sometimes, abbreviations adopted by
+      different societies for the same polymer may vary, but there is widespread agree-
+      ment on the abbreviations for a large number of important polymers. These abbre-
+      viations are convenient and widely used. As examples, PS is generally recognized
+      as the abbreviation for polystyrene, PVC for poly(vinyl chloride), PMMA for
+      poly(methyl methacrylate), PTFE for polytetrafluoroethylene, and PC for bis-
+      is poly(difluoromethylene)—a polymer more typically recognized by its trademark,
+      Teflon. The IUPAC name for the polycarbonate of bisphenol-A mentioned earlier is
+      poly(oxycarbonyloxy-1,4-phenyleneisopropylidene-1,4-phenylene).
+      For convenience, several societies have developed a very useful set of two-,
+      three-, and four-letter abbreviations for the names of many common thermoplastics,
+      thermosets, fibers, elastomers, and additives. Sometimes, abbreviations adopted by
+      different societies for the same polymer may vary, but there is widespread agree-
+      ment on the abbreviations for a large number of important polymers. These abbre-
+      viations are convenient and widely used. As examples, PS is generally recognized
+      as the abbreviation for polystyrene, PVC for poly(vinyl chloride), PMMA for
+      poly(methyl methacrylate), PTFE for polytetrafluoroethylene, and PC for bis-
     questions_and_answers:
       - question: |
-          At the 2024 Oscars, who were the nominees for best director and who won?
+          What is a copolymer, and what types exist?
         answer: |
-          The nominees for director at the 2024 Oscars was Christopher Nolan for Oppenheimer,
-          Justine Triet for Anatomy of a Fall, Martin Scorsese for Killers of the Flower Moon,
-          Yorgos Lanthimos for Poor Things, and Jonathan Glazer for The Zone of Interest.
-          Christopher Nolan won best director for Oppenheimer.
+          A polymer with two or more different monomer units. Types include random, alternating, block, graft, and statistical.
       - question: |
-          Who won the award for Best Actor at the 2024 Oscars?
+          What is tacticity, and what are its main forms?
         answer: |
-          Cillian Murphy in Oppenheimer
+          Tacticity is the stereoregularity of side groups: isotactic (same side), syndiotactic (alternating), and atactic (random).
       - question: |
-          Who won the award for Best Actress at the 2024 Oscars?
+          What is geometric isomerism in polymers?
         answer: |
-          Emma Stone in Poor Things
+          It refers to cis/trans configurations in polymers with double bonds, such as in 1,4-polybutadiene.
+      - question: |
+          What does the nomenclature “poly(vinyl chloride)” signify?
+        answer: |
+          It’s a polymer made from the monomer vinyl chloride; the “poly” prefix indicates a repeating unit.
+      - question: |
+          How do structural differences in polymers affect their crystallinity?
+        answer: |
+          Regular (tactic) structures promote crystallinity, while irregular (atactic) structures lead to amorphous behavior.
   - context: |
-      Jimmy Kimmel hosted the 96th Academy Awards, his fourth overall. On October 17, 2023, Hamish Hamilton was
-      announced as director. On November 15, Jimmy Kimmel was announced as host, returning for the second consecutive
-      year and fourth Academy Awards overall. On November 30, 2023, ABC and the Academy announced that the start time
-      of the ceremony would be moved up by an hour to 4:00 p.m. PT (7:00 p.m. ET). This change enabled ABC to air a
-      half-hour of primetime programming as a lead-out, featuring a new episode of its sitcom Abbott Elementary.
-      An American Sign Language livestream was broadcast on the Academy's YouTube page featuring video of interpreters.
-      The pre-show was hosted for the third consecutive year by Vanessa Hudgens, joined by new co-host Julianne Hough.
-      Due to the scheduling change, the pre-show was shortened to 30 minutes. The beginning of the ceremony was delayed
-      by six minutes, due to arrivals being slowed by Israel–Hamas war protests outside of the theatre.
-      On January 29, 2024, comedian and broadcaster Amelia Dimoldenberg, host of the YouTube interview series Chicken
-      Shop Date, was announced as the social media ambassador and red carpet correspondent. Dimoldenberg was involved
-      in multiple Oscar season events, including the Oscars Nominees luncheon, where she participated in an Academy
-      video production with nominees. She was also involved interviewing people at the Oscars red carpet and the
-      "Oscars 96 Behind the Scenes Tour".
-      Presenters were announced in a series of groups beginning on February 26, 2024. Performers were announced on
-      February 28, 2024. After the first batch of presenters was announced, The Hollywood Reporter learned that the
-      Academy would revive a popular presenting format previously used in 2009, where five Oscar-winning actors for
-      leading and supporting performances took the stage together to introduce the current nominees in their
-      respective categories. David Alan Grier was selected as the event's announcer.
-      Production designers Alana Billingsley and Misty Buckley designed the stage over the course of nine months.
-      According to Billingsley and Buckley, they were inspired by contemporary spaces where people can "meet, exchange,
-      create [like] a modern-day plaza". Throughout the ceremony, the stage subtly changed its design to honor the
-      nominees; the screenplay categories included images of real typewriters, while the Best Costume Design category
-      showcased images of several of the nominated costumes.
-      Messi the Dog from Anatomy of a Fall attended the ceremony and had his own seat in the audience. According to The
-      Hollywood Reporter, multiple companies with nominated films had complained to the Academy about him attending the
-      Oscar nominees luncheon and giving the film an advantage for voting. Before the ceremony, the show's host,
-      Jimmy Kimmel, shared a video in which he could be seen rehearsing his Oscars jokes with Messi. He also made a
-      surprise appearance in the audience of the show and appeared to urinate on Matt Damon's star on the Hollywood
-      Walk of Fame as part of the ongoing Damon–Kimmel feud.
-      Nominees Kaouther Ben Hania, Finneas O'Connell, Billie Eilish, and Mark Ruffalo, as well as presenters
-      Ramy Youssef and Mahershala Ali, wore red Artists4Ceasefire badges calling for a ceasefire in Gaza.
+      A typical synthetic polymer sample contains chains with a wide distribution of
+      chain lengths. This distribution is seldom symmetric and contains some molecules
+      of very high molecular weight. A representative distribution is illustrated in Figure
+      1-8. The exact breadth of the molecular-weight distribution depends upon the spe-
+      cific conditions of polymerization, as will be described in Chapter 2. For example,
+      the polymerization of some olefins can result in molecular-weight distributions that
+      are extremely broad. In other polymerizations, polymers with very narrow molecu-
+      lar-weight distributions can be obtained. As will be shown in subsequent chapters,
+      many polymer properties, such as melt viscosity, are dependent on molecular
+      weight and molecular-weight distribution. Therefore, it is useful to define molecu-
+      lar-weight averages associated with a given molecular-weight distribution as de-
+      tailed in this section.
+      For a discrete distribution of molecular weights, an average molecular
+      weight,,
+      M may be defined as
+      where Ni indicates the number of moles of molecules having a molecular weight of
+      Mi and the parameter h is a weighting factor that defines a particular average of the
+      molecular-weight distribution. The weight, Wi, of molecules with molecular weight
+      Mi is then
+      Molecular weights that are important in determining polymer properties are the
+      number-average, n
+      M (h = 1), the weight-average, w
+      M (h = 2), and the z-average,
+      M (h = 3), molecular weights.
+      z
+      Since the molecular-weight distribution of commercial polymers is normally a
+      continuous function, molecular-weight averages can be determined by integration if
+      the appropriate mathematical form of the molecular-weight distribution (i.e., N as a
+      function of M as illustrated in Figure 1-8) is known or can be approximated. Such
+      mathematical forms include theoretical distribution functions derived on the basis of
+      a statistical consideration of an idealized polymerization, such as the Flory, Schultz,
+      Tung, and Pearson distributions [9] (see Example 1.1 and Problem 1.3) and stand-
+      ard probability functions, such as the Poisson and logarithmic-normal
+      distributions.
+      It follows from eq. (1.1) that the number-average molecular weight for a dis-
+      crete distribution of molecular weights is given as
+      where N is the total number of molecular-weight species in the distribution. The
+      expression for the number-average molecular weight of a continuous distribution
+      function is
+      The respective relationships for the weight-average molecular weight of a dis-
+      crete and a continuous distribution are given by
+      In the case of high-molecular-weight polymers, the number-average molecular
+      weight is directly determined by membrane osmometry, while the weight-average
+      molecular weight is determined by light-scattering and other scattering techniques
+      as described in Chapter 3. As mentioned earlier, a higher moment of the molecular-
+      weight distribution is the z-average molecular weight M where h = 3. As dis-
+      z
+      cussed later in Chapter 3 (Section 3.3.3), a viscosity-average molecular weight,
+      M can be obtained from dilute-solution viscometry. The viscosity-average molec-
+      v ,
+      ular weight falls between n
+      M and w
+      M depending upon whether the solvent is a
+      good or poor solvent for the polymer. In the case of a good solvent, M M2
+      v w .
+      A measure of the breadth of the molecular-weight distribution is given by the
+      ratios of molecular-weight averages. For this purpose, the most commonly used ra-
+      M M tio is w n ,
+      called the polydispersity index or PDI [9]. Recent IUPAC recom-
+      mendations suggest the use of the term molar-mass dispersity, DM, for this
+      ratio
+      [10]. The PDIs of commercial polymers vary widely. For example, commercial
+      grades of polystyrene with a n
+      M of over 100,000 have polydispersity indices be-
+      tween 2 and 5, while polyethylene synthesized in the presence of a stereospecific
+      catalyst may have a PDI as high as 30.* In contrast, the PDI of some vinyl polymers
+      prepared by “living” polymerization (see Chapter 2) can be as low as 1.06. Such
+      polymers with nearly monodisperse molecular-weight distributions are useful as
+      molecular-weight standards for the determination of molecular weights and molecu-
+      lar-weight distributions of commercial polymers (see Section 3.3.4).
+      Example 1.1
+      A polydisperse sample of polystyrene is prepared by mixing three monodisperse
+      samples in the following proportions:
+      1 g 10,000 molecular weight
+      2 g 50,000 molecular weight
+      2 g 100,000 molecular weight
+      Using this information, calculate the number-average molecular weight, weight-
+      average molecular weight, and PDI of the mixture.
+      A polymer is fractionated and is found to have the continuous molecular-weight
+      distribution shown below as a plot of the weight, W, of molecules having mo-
+      lecular weight, M, versus M. Given this molecular-weight distribution, calculate
+      M and M n w .
+      A polymer is fractionated and is found to have the continuous molecular-weight
+      distribution shown below as a plot of the weight, W, of molecules having mo-
+      lecular weight, M, versus M. Given this molecular-weight distribution, calculate
+      M and M n w .
     questions_and_answers:
       - question: |
-          Who was announced as the social media ambassador and red carpet correspondent for the 2024 Oscars?
+          What is molecular-weight distribution in polymers?
         answer: |
-          Comedian and broadcaster Amelia Dimoldenberg
+          It describes the range and frequency of molecular weights within a polymer sample.
       - question: |
-          Who hosted the 2024 Oscars pre-show?
+          What are Mn and Mw, and how do they differ?
         answer: |
-          Vanessa Hudgens and Julianne Hough
+          Mn is number-average molecular weight; Mw is weight-average molecular weight. Mw gives more weight to heavier chains.
       - question: |
-          How long did it take to build the 2024 Oscars stage?
+          What is the Polydispersity Index (PDI)?
         answer: |
-          Nine months
+          PDI = Mw / Mn; it measures the spread of molecular weights in a sample.
+      - question: |
+          What PDI value indicates a narrow molecular-weight distribution?
+        answer: |
+          A value close to 1.0, such as 1.06 in "living" polymerizations.
+      - question: |
+          Name three methods used to determine polymer molecular weights.
+        answer: |
+          Membrane osmometry (Mn), light scattering (Mw), viscometry (Mv).
   - context: |
-      Box office performance of Best Picture nominees
-      When the nominations were announced, the films nominated for Best Picture had earned a combined gross of
-      $1.09 billion at the American and Canadian box offices at the time.[87] Barbie was the highest-grossing film
-      among the Best Picture nominees, with $636 million in domestic box office receipts. Oppenheimer came in second
-      with $327 million. The two films, comprising the Barbenheimer phenomenon, represented 88% of the cumulative
-      box office haul generated by Best Picture nominees prior to their nominations.[88] Oppenheimer became the
-      highest-grossing Best Picture winner since The Lord of the Rings: The Return of the King at the
-      76th Academy Awards in 2004. It also became the first one to gross more than $100 million
-      at the domestic box office in the decade since Argo at the 85th Academy Awards in 2013.[89]
+      As the previous discussion has shown, many important synthetic polymers such as
+      polystyrene and poly(methyl methacrylate) consist of long, flexible chains of very
+      high molecular weight. In many cases, individual chains are randomly coiled and
+      intertwined with no molecular order or structure. Such a physical state is termed
+      amorphous. Commercial-grade (atactic) polystyrene and poly(methyl methacrylate)
+      are examples of polymers that are amorphous in the solid state. Below a certain
+      temperature called the glass-transition temperature (Tg), long-range, cooperative
+      motions of individual chains cannot occur; however, short-range motions involving
+      several contiguous groups along the chain backbone or substituent group are possi-
+      ble. Such motions are called secondary-relaxation processes and can occur at
+      tem-
+      peratures as low as 70 K. By comparison, glass-transition temperatures vary from
+      150 K for polymers with very flexible chains such as polydimethylsiloxane
+      to well over 600 K for those with highly rigid aromatic backbones such as the high-
+      modulus fiber poly[2,2'-(m-phenylene)-5,5'-bibenzimidazole] (PBI) (see Section
+      10.2.1)
+      with a Tg reported in the range from 700 to 773 K.
+      Polymer chains with very regular structures, such as linear polyethylene and
+      isotactic polypropylene, can be arranged in highly regular structures called crystal-
+      lites. Each crystallite consists of rows of folded chains. Since sufficient thermal en-
+      ergy is needed to provide the necessary molecular mobility for the chain-folding
+      process, crystallization can occur only at temperatures above Tg. If the temperature
+      is too high, chain folds become unstable and high thermal energy disorders the crys-
+      tallites—a crystalline–amorphous transition then occurs. The temperature that
+      marks this transition is called the crystalline-melting temperature or Tm. Crystalline
+      melting temperatures can vary from 334 K for simple, flexible-chain polyesters
+      such as polycaprolactone
+      to over 675 K for aromatic polyamides such as poly(m-phenylene isophthalamide)
+      (Nomex)
+      As an approximate rule of thumb, Tg is one-half to two-thirds of Tm expressed in
+      absolute temperature (Kelvins). The glass-transition and crystalline-melting temper-
+      atures can be determined by a wide range of techniques including measurement of
+      volume (dilatometry), specific heat (calorimetry), and mechanical properties, par-
+      ticularly modulus (e.g., dynamic mechanical analysis), as discussed in Chapter 4.
     questions_and_answers:
       - question: |
-          What 2024 Oscar Best Picture nominee was the highest-grossing movie?
+          What is the glass-transition temperature (Tg)?
         answer: |
-          Barbie
+          It’s the temperature below which a polymer becomes glassy and brittle, and above which it becomes rubbery.
       - question: |
-          How much did Openheimer gross at the box office?
-        answer: !
-          $327 million
-      - question: |
-          What was the combined gross of the 2024 Best Picture nominees?
+          What does Tm (melting temperature) represent in a polymer?
         answer: |
-          $1.09 billion
+          The temperature at which crystalline regions of a polymer melt into the amorphous state.
+      - question: |
+          How are amorphous and crystalline polymers different?
+        answer: |
+          Amorphous polymers lack long-range order; crystalline polymers have ordered chain folding regions (crystallites).
+      - question: |
+          How does polymer structure affect Tg and Tm?
+        answer: |
+          Flexible chains lower Tg, while rigid or aromatic backbones raise both Tg and Tm.
+      - question: |
+          What rule relates Tg to Tm?
+        answer: |
+          Tg is typically one-half to two-thirds of Tm (in Kelvins).
 document_outline: |
- Information about the 2024 Academy Awards ceremony where the Oscars are presented.
+  Information about generic knowledge on Polymers.
 document:
-  repo: https://github.com/juliadenham/oscars2024_knowledge.git
-  commit: e1744af
+  repo: https://github.com/takaomoriyama/material-properties
+  commit: 2dfc022097fa7ec4b55a20bd0feb0b997a2bc906
   patterns:
-    - oscars2024_results.md
+    # Chapter 1: Introduction to Polymer Science (pp. 24)
+    - Joel-R-Fried/Joel-R-Fried-Polymer-Science-and-Technology-Prentice-Hall-2014-chap01.pdf
+    # Chapter 2: Polymer Synthesis (pp. 76)
+    #- Joel-R-Fried/Joel-R-Fried-Polymer-Science-and-Technology-Prentice-Hall-2014-chap02.pdf
+    # Whole book: Introduction to Polymer Science (pp. 689)
+    #- Joel-R-Fried/Joel-R-Fried-Polymer-Science-and-Technology-Prentice-Hall-2014.pdf
