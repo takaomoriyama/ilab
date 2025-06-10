@@ -1,5 +1,5 @@
 {
-    "taxonomy_repo":"https://github.com/KenOcheltree/taxonomy",
+    "taxonomy_repo":"https://github.com/takaomoriyama/taxonomy",
     "local_taxonomy_dir": "taxonomy",    
     "use_cases": {  
         "oscars": {
