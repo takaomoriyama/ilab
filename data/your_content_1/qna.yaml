@@ -74,14 +74,6 @@ seed_examples:
           What is the difference between plastics, elastomers, and fibers?
         answer: |
           Plastics are rigid or flexible moldable materials, elastomers are stretchable, and fibers are long-thread-like materials used in textiles.
-      - question: |
-          How did World War II influence polymer development?
-        answer: |
-          It accelerated the development of synthetic rubbers and plastics due to shortages of natural materials.
-      - question: |
-          Name two significant developments in 20th-century polymer science.
-        answer: |
-          The invention of Bakelite in 1907 and the commercialization of polypropylene using Ziegler–Natta catalysts in the 1950s.
   - context: |
       Thousands of different polymers have been synthesized and more will be produced
       in the future. Conveniently, all polymers can be assigned to one of two groups
@@ -184,14 +176,6 @@ seed_examples:
           What structural feature distinguishes homochain from heterochain polymers?
         answer: |
           Homochain polymers have all-carbon backbones; heterochain polymers include atoms like oxygen, nitrogen, or sulfur.
-      - question: |
-          Give an example of a thermoplastic and a thermoset.
-        answer: |
-          Thermoplastic: polyethylene. Thermoset: epoxy resin.
-      - question: |
-          What makes thermosets chemically resistant?
-        answer: |
-          Their three-dimensional crosslinked network.
   - context: |
       Section 1.2: Polymer Structure
       The properties of polymers are strongly influenced by details of the chain structure.
@@ -359,14 +343,6 @@ seed_examples:
           What is geometric isomerism in polymers?
         answer: |
           It refers to cis/trans configurations in polymers with double bonds, such as in 1,4-polybutadiene.
-      - question: |
-          What does the nomenclature “poly(vinyl chloride)” signify?
-        answer: |
-          It’s a polymer made from the monomer vinyl chloride; the “poly” prefix indicates a repeating unit.
-      - question: |
-          How do structural differences in polymers affect their crystallinity?
-        answer: |
-          Regular (tactic) structures promote crystallinity, while irregular (atactic) structures lead to amorphous behavior.
   - context: |
       A typical synthetic polymer sample contains chains with a wide distribution of
       chain lengths. This distribution is seldom symmetric and contains some molecules
@@ -467,14 +443,6 @@ seed_examples:
           What is the Polydispersity Index (PDI)?
         answer: |
           PDI = Mw / Mn; it measures the spread of molecular weights in a sample.
-      - question: |
-          What PDI value indicates a narrow molecular-weight distribution?
-        answer: |
-          A value close to 1.0, such as 1.06 in "living" polymerizations.
-      - question: |
-          Name three methods used to determine polymer molecular weights.
-        answer: |
-          Membrane osmometry (Mn), light scattering (Mw), viscometry (Mv).
   - context: |
       As the previous discussion has shown, many important synthetic polymers such as
       polystyrene and poly(methyl methacrylate) consist of long, flexible chains of very
@@ -523,14 +491,6 @@ seed_examples:
           How are amorphous and crystalline polymers different?
         answer: |
           Amorphous polymers lack long-range order; crystalline polymers have ordered chain folding regions (crystallites).
-      - question: |
-          How does polymer structure affect Tg and Tm?
-        answer: |
-          Flexible chains lower Tg, while rigid or aromatic backbones raise both Tg and Tm.
-      - question: |
-          What rule relates Tg to Tm?
-        answer: |
-          Tg is typically one-half to two-thirds of Tm (in Kelvins).
 document_outline: |
   Information about generic knowledge on Polymers.
 document:
