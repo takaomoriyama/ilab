@@ -1,5 +1,4 @@
-Some sample questions for the 2024 Oscars from Your Content 1 are:
-1.  What do you know about chemistry ?
-2.  Please describe the melting point of C=O=S
-3.  Can you describe CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1 and make it more soluble ?
-
+Some sample questions for Polymer Textbook from Your Content 1 are:
+1. How did World War II influence polymer development?
+2. How does polymer structure affect Tg and Tm?
+3. What rule relates Tg to Tm?
